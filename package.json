@@ -1,0 +1,13 @@
+{
+  "name": "node-2fa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nairo-mudumane/node-2fa.git",
+  "author": "nairo-mudumane <nairomudumane@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "speakeasy": "^2.0.0"
+  }
+}
